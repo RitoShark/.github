@@ -43,7 +43,7 @@ All of our projects are open-source, built for speed, and designed to help creat
       <td align="center">
         <br/>
         <a href="https://github.com/RitoShark/Flint">
-          <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/flint-logo.png" width="100" alt="Flint Logo"/>
+          <img width="300" height="300" alt="3dgifmaker16783" src="https://github.com/user-attachments/assets/a48d0c57-a29d-4569-84fc-e48166e92b73" />
         </a>
       </td>
       <td>
