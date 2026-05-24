@@ -62,7 +62,7 @@ All of our projects are open-source, built for speed, and designed to help creat
       <td align="center">
         <br/>
         <a href="https://github.com/RitoShark/Quartz">
-           <img width="50" height="150" alt="3dgifmaker47246" src="https://github.com/user-attachments/assets/e48a9cd9-b747-4e4a-a72f-e29305152494" />
+           <img width="150" height="150" alt="3dgifmaker47246" src="https://github.com/user-attachments/assets/e48a9cd9-b747-4e4a-a72f-e29305152494" />
         </a>
       </td>
       <td>
