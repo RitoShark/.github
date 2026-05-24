@@ -43,7 +43,7 @@ All of our projects are open-source, built for speed, and designed to help creat
       <td align="center">
         <br/>
         <a href="https://github.com/RitoShark/Flint">
-          <img width="300" height="300" alt="3dgifmaker16783" src="https://github.com/user-attachments/assets/a48d0c57-a29d-4569-84fc-e48166e92b73" />
+          <img width="150" height="150" alt="3dgifmaker16783" src="https://github.com/user-attachments/assets/a48d0c57-a29d-4569-84fc-e48166e92b73" />
         </a>
       </td>
       <td>
@@ -100,7 +100,7 @@ All of our projects are open-source, built for speed, and designed to help creat
       <td align="center">
         <br/>
         <a href="https://github.com/RitoShark/Hematite">
-          <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/hematite-logo.png" width="100" alt="Hematite Logo"/>
+          <img width="150" height="150" alt="3dgifmaker57959" src="https://github.com/user-attachments/assets/740d2936-573f-41cd-9ba1-9f47e8e7fefc" />
         </a>
       </td>
       <td>
