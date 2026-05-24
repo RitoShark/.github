@@ -81,7 +81,7 @@ All of our projects are open-source, built for speed, and designed to help creat
       <td align="center">
         <br/>
         <a href="https://github.com/RitoShark/Jade-League-Bin-Editor">
-          <img width="150" height="150" alt="3dgifmaker75380" src="https://github.com/user-attachments/assets/ef15f589-8c74-46ce-b8d3-8ab8f5200bfc" />
+          <img width="150" height="150" alt="3dgifmaker02539" src="https://github.com/user-attachments/assets/6ff7bf96-a31a-4e2e-80b6-c646ce0a6516" />
         </a>
       </td>
       <td>
@@ -100,7 +100,7 @@ All of our projects are open-source, built for speed, and designed to help creat
       <td align="center">
         <br/>
         <a href="https://github.com/RitoShark/Hematite">
-          <img width="150" height="150" alt="3dgifmaker57959" src="https://github.com/user-attachments/assets/740d2936-573f-41cd-9ba1-9f47e8e7fefc" />
+          <img width="150" height="150" alt="3dgifmaker32536" src="https://github.com/user-attachments/assets/2fbd09c4-58b8-4a0a-836d-51e6311bae9a" />
         </a>
       </td>
       <td>
@@ -118,7 +118,7 @@ All of our projects are open-source, built for speed, and designed to help creat
       <td align="center">
         <br/>
         <a href="https://wiki.divineskins.gg/">
-          <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/wikilogo.webp" width="100" alt="Wiki Logo"/>
+          <img width="150" height="150" alt="3dgifmaker65147" src="https://github.com/user-attachments/assets/11750f33-b3d8-4a04-a5d0-24a43fa27fe7" />
         </a>
       </td>
       <td>
