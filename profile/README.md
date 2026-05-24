@@ -81,7 +81,7 @@ All of our projects are open-source, built for speed, and designed to help creat
       <td align="center">
         <br/>
         <a href="https://github.com/RitoShark/Jade-League-Bin-Editor">
-          <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/jadelogo.webp" width="100" alt="Jade Logo"/>
+          <img width="150" height="150" alt="3dgifmaker75380" src="https://github.com/user-attachments/assets/ef15f589-8c74-46ce-b8d3-8ab8f5200bfc" />
         </a>
       </td>
       <td>
