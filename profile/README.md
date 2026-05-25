@@ -27,7 +27,6 @@ RitoShark is a collective of League of Legends modders building tools for the co
 All of our projects are open-source, built for speed, and designed to help creators bring their custom skins and mods to life with minimal friction.
 
 <br/>
-
 ## 🛠️ The Core Ecosystem
 
 <table>
@@ -152,13 +151,10 @@ We build specialized bridges between industry-standard creative programs and the
 *   **[lmdb-hashes](https://github.com/RitoShark/lmdb-hashes)**: High-performance memory-mapped cache mapping over 1.8 million FNV-1a/xxhash strings to original game file paths. Loads in under a second and is utilized to resolve game hashes dynamically across the RitoShark ecosystem.
 
 <br/>
-
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,30:1D4ED8,70:7C3AED,100:F59E0B&height=120&section=footer&animation=twinkling" alt="RitoShark Footer Banner"/>
-</p>
-
 <p align="center">
   <sub>Built for the League Modding Community · Not affiliated with Riot Games, Inc.</sub>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,30:1D4ED8,70:7C3AED,100:F59E0B&height=120&section=footer&animation=twinkling" alt="RitoShark Footer Banner"/>
 </p>
