@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=For+Modders.+By+Modders.;Advanced+League+of+Legends+Modding+Ecosystem.;Building+high-performance+tools+%E2%9A%99" alt="RitoShark Typing Banner"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=For+Modders,+By+Modders.;Advanced+League+of+Legends+Modding+Ecosystem.;Building+high-performance+tools+%E2%9A%99" alt="RitoShark Typing Banner"/>
   </a>
 </p>
 
