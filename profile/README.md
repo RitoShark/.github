@@ -125,7 +125,7 @@
 
 ---
 
-<p>
+<details>
 <summary><strong>Plugins & infrastructure</strong></summary>
 
 <br/>
@@ -142,7 +142,7 @@
 **Infrastructure**
 - [lmdb-hashes](https://github.com/RitoShark/lmdb-hashes) - 1.8M+ hash -> path cache, fast loading, used across all our apps
 
-</p>
+</details>
 
 ---
 
