@@ -18,7 +18,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RitoShark/Quartz">
-    <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/quartz-logo.webp" width="56" alt="Quartz"/>
+    <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/quartz-logo.png" width="56" alt="Quartz"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RitoShark/Jade-League-Studio">
@@ -73,7 +73,7 @@
   <tr>
     <td width="80" align="center" valign="middle">
       <a href="https://github.com/RitoShark/Quartz">
-        <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/quartz-logo.webp" width="72" alt="Quartz"/>
+        <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/quartz-logo.png" width="72" alt="Quartz"/>
       </a>
     </td>
     <td valign="middle">
