@@ -25,6 +25,10 @@
     <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/jadelogo.webp" width="56" alt="Jade"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/RitoShark/RubyVFX">
+    <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/rubylogo1.png" width="56" alt="Ruby"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RitoShark/Hematite">
     <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/hematite-logo.png" width="56" alt="Hematite"/>
   </a>
@@ -40,6 +44,8 @@
   <a href="https://github.com/RitoShark/Quartz">Quartz</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/RitoShark/Jade-League-Studio">Jade</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/RitoShark/RubyVFX">Ruby</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/RitoShark/Hematite">Hematite</a>
   &nbsp;·&nbsp;
@@ -94,6 +100,19 @@
   </tr>
   <tr>
     <td width="80" align="center" valign="middle">
+      <a href="https://github.com/RitoShark/RubyVFX">
+        <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/rubylogo.png" width="72" alt="Ruby"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <p>
+        <strong><a href="https://github.com/RitoShark/RubyVFX">Jade</a></strong> - a VFX preview app.
+        An app designed to preview League of Legends particles. Previews materials and loads particles alongside animations on demand. 
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center" valign="middle">
       <a href="https://github.com/RitoShark/Hematite">
         <img src="https://raw.githubusercontent.com/RitoShark/.github/main/public/hematite-logo.png" width="72" alt="Hematite"/>
       </a>
@@ -138,6 +157,7 @@
 
 **3D**
 - [Aventurine-League-Tools](https://github.com/RitoShark/Aventurine-League-Tools) - 4.0+ Blender addon to natively load League of Legends files and features to make modding easier
+- [RitoShark-Maya](https://github.com/RitoShark/RitoShark-Maya) - AutoDesk Maya addon based on LolMaya for loading League of Legends files using the RitoShark rust backend
 
 **Infrastructure**
 - [lmdb-hashes](https://github.com/RitoShark/lmdb-hashes) - 1.8M+ hash -> path cache, fast loading, used across all our apps
