@@ -106,7 +106,7 @@
     </td>
     <td valign="middle">
       <p>
-        <strong><a href="https://github.com/RitoShark/RubyVFX">Ruby</a></strong> - a VFX preview app.
+        <strong><a href="https://github.com/RitoShark/RubyVFX">Ruby</a></strong> - VFX previews.
         An app designed to preview League of Legends particles. Previews materials and loads particles alongside animations on demand. 
       </p>
     </td>
